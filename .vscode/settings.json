@@ -1,2 +1,6 @@
 {
+    "cSpell.enableFiletypes": [
+        "!json"
+    ],
+    "cSpell.enabled": false
 }
